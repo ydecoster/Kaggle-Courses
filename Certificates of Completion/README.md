@@ -1,6 +1,6 @@
 # Kaggle-Courses
 
-Please find below the certificates from all programming assignments of Kaggle Courses taught by Alexis Cook, Rachael Tatman, Dan Becker, Mat Leonard, Jessica Li, Aleksey Bilogur and Colin Morris.
+Please find below the certificates of all programming assignments of Kaggle Courses taught by Alexis Cook, Rachael Tatman, Dan Becker, Mat Leonard, Jessica Li, Aleksey Bilogur and Colin Morris.
 
 - Python, https://www.kaggle.com/learn/certification/ydecoster/python
 - Intro to Machine Learning, https://www.kaggle.com/learn/certification/ydecoster/intro-to-machine-learning
